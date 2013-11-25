@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1385253996 source:c:\users\jason\documents\chatserver\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Socket.h"
+	<list>
+	<map>
+	<process.h>
+	<winsock2.h>
+
+1385240518 c:\users\jason\documents\chatserver\socket.h
+	<winsock2.h>
+	<string>
+	<sstream>
+
+1385240518 source:c:\users\jason\documents\chatserver\socket.cpp
+	"Socket.h"
+
